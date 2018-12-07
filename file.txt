@@ -2,8 +2,5 @@ hello
 firstchangeby1p3
 aaaaby2p3
 p5 new branch
-<<<<<<< HEAD
 p5 by1 dobre
-=======
 something p7
->>>>>>> master
